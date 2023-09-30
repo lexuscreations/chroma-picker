@@ -1,0 +1,23 @@
+{
+  "name": "ChromaPicker",
+  "description": "A Google Chrome extension for developers that serves as a color picker, allowing you to select colors from anything displayed on your laptop screen.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "./images/picker_16.jpg",
+    "32": "./images/picker_32.jpg",
+    "48": "./images/picker_48.jpg"
+  },
+  "author": "lexuscreations",
+  "homepage_url": "https://github.com/lexuscreations/chromaPicker",
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+9"
+      }
+    }
+  }
+}

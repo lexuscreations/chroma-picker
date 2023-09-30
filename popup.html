@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./popup.css" />
+    <meta
+      name="description"
+      content="A Google Chrome extension for developers that serves as a color picker, allowing you to select colors from anything displayed on your laptop screen."
+    />
+    <title>
+      ChromaPicker - Chrome Extension for Developers | Color Picker Tool
+    </title>
+  </head>
+  <body>
+    <header>
+      <h2>ChromaPicker</h2>
+      <p>Shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>9</kbd></p>
+    </header>
+    <hr />
+    <main>
+      <div class="resultCon">
+        <div class="resultColorPrev"></div>
+        <span class="resultColorValue">transparent</span>
+      </div>
+      <hr />
+      <button class="colorPickerBtn">
+        <i class="fa-solid fa-crosshairs"></i>
+      </button>
+    </main>
+    <script src="./popup.js"></script>
+  </body>
+</html>
