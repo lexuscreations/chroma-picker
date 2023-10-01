@@ -1,11 +1,11 @@
 # ChromaPicker - Chrome Extension for Developers
 
-<p align="center"><img src="./images/picker_48.jpg" alt="ChromaPicker Logo"></p>
+<p align="center"><img src="https://snapcloud.vercel.app/github/chroma-picker/logo.png" alt="ChromaPicker Logo"></p>
 
 ChromaPicker is a handy lightweight Chrome extension designed for developers. It serves as a color picker tool that simplifies the process of selecting colors from anything displayed on your screen. Whether you're a web developer, designer, or simply need to extract colors from web pages, ChromaPicker is here to streamline your workflow.
 
-<p align="center"><img src="./screenshots/image1.png" alt="ChromaPicker Logo"></p>
-<p align="center"><img src="./screenshots/image2.png" alt="ChromaPicker Logo"></p>
+<p align="center"><img src="https://snapcloud.vercel.app/github/chroma-picker/screenshot1.png" alt="ChromaPicker Logo"></p>
+<p align="center"><img src="https://snapcloud.vercel.app/github/chroma-picker/screenshot2.png" alt="ChromaPicker Logo"></p>
 
 <hr />
 
